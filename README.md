@@ -51,3 +51,18 @@ Merchant should change a attribite in tag button for call paysolutions sdk
 |06|GBP (Pound)|
 |07|Australian Dollar|
 |08|Swiss Franc|
+
+## SDK Step
+
+### Button
+
+![](https://s3-payso-images.s3.ap-southeast-1.amazonaws.com/sdk-button.png "Paysolutions Button")
+
+### Popup
+
+![](https://s3-payso-images.s3.ap-southeast-1.amazonaws.com/sdk-popup.png "Paysolutions Popup")
+
+
+### Credit Input
+
+![](https://s3-payso-images.s3.ap-southeast-1.amazonaws.com/sdk-credit.png "Paysolutions Credircard")
