@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Paysolutoins SDK</title>
+</head>
+
+<body>
+    <h2>Pay Solutions SDK</h2>
+    <p>Note that the button and the form is fixed.</p>
+
+    <!-- Require button -->
+    <button merchantid="12345678" msecretkey="sdfsewerwerwt" prdrefno="123456789012" prddet="Test-JS" prdtotal="1" prdcc="00" prdlang="TH" prdcustemail="nancom@gmail.com" merlogo="https://www.merchant-web.com/logo.jpg" mername="Shop Name" paychannel="FULL,PP,TW"
+        id="pspayment" name="pspayment">
+</button>
+    <!-- Optional field
+    prdpburl="http://merchantpostback.com/" 
+    prdrturl="http://merchantreturnurl.com" 
+    prdcusttel="0825652223"
+    -->
+
+    <!-- Full Setup
+    paychannel="FULL,AMEX,CUP,INS,PP,BILL,IB,WC,AL,TW"
+    -->
+    <!-- Require Div -->
+    <div class="ps-form-popup" id="ps-myForm"></div>
+
+</body>
+
+<!-- Require script -->
+<script type="text/javascript" src="https://cdn.paysolutions.io/payso-sdk.js"></script>
+
+</html>
+
+</html>
