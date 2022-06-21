@@ -23,6 +23,9 @@ Merchant should change a attribite in tag button for call paysolutions sdk
 | prdrturl |  Return URL  |O| URL | https://www.merchant.com |
 | prdcusttel |  Customer Tel. No.  |O| Tel. No. | 082123456 |
 
+M : Mandatory
+O : Optoinal
+
 ## Payment Channel 
 
 | Code   |      Description      |
